@@ -1,6 +1,6 @@
 <template>
   <div>
-    home dev~~
+    home dev~~~
   </div>
 </template>
 
